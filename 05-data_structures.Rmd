@@ -1,0 +1,19 @@
+# (PART) COMPUTER SCIENCE {-}
+
+# Data Structures {#data-structs}
+
+## Arrays
+
+## Linked lists 
+
+## Queues
+
+## Stacks 
+
+## Graphs 
+
+## Trees
+
+## Heaps
+
+## Hash Tables 

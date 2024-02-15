@@ -1,0 +1,17 @@
+--- 
+title: "Topics in Data Science"
+author: "Giles Carlos"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+---
+
+# Preface {-}
+
+As an aspiring data scientist in an ever-growing field, on several occasions I've found myself overwhelmed by all the different topics and information that data science encompasses. Whether it be theoretical statistics, theoretical computer science, statistical tests, modeling techniques, or different algorithms and data structures, these all seem to get jumbled up in my head. Having been exposed to so many different topics in classes throughout undergraduate and graduate school, I know that quick summaries with main points or motivations for procedures in my own words would provide a good starting point to refresh my memory. Consequently, I've put this together to give myself an all-in-one source to brush up on essential topics needed to be a competent data scientist. In the future, I plan on continuing to add to and editing this document as necessary. 

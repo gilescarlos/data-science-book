@@ -1,0 +1,22 @@
+# Statistical Methods {#stats-methods}
+
+## Descriptive vs Inferential
+
+## Pearson Correlation
+
+## T-tests
+
+## ANOVA
+
+## Regression
+
+### Linear
+
+### Logistic
+
+### Poisson
+
+## Generalized Linear Mixed Models
+
+## Generalized Estimating Equations
+

@@ -1,0 +1,29 @@
+# Machine Learning {#ml}
+
+Machine learning techniques combine methods from statistics and computer science to make predictions and handle significantly large data sets. 
+
+## Supervised Learning
+
+### Regression and Classification
+
+### Naive Bayes
+
+### Nearest Neighbors
+
+### Support Vector machines
+
+### Neural Networks
+
+### Decision Trees
+
+Mention linear regression and logistic regression as discussed in chapter \@ref(stats-methods) are also utilized for regression and classification.
+
+### Ensembles (Bagging, Boosting)
+
+## Unsupervised Learning
+
+### Clustering
+
+### PCA
+
+## Reinforcement Learning

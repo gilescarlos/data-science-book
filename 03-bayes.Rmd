@@ -1,0 +1,9 @@
+# Bayesian Statistics {#bayes}
+
+## Bayes Rule
+
+## Conjugate Families
+
+## Simulation and Approximation
+
+## Monte Carlo Markov Chains (MCMC)
